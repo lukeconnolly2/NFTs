@@ -4,7 +4,7 @@ import pandas as pd
 
 def pingapi(address):
     url = 'https://graphql.icy.tools/graphql'
-    header = {'x-api-key': '91a9fda75c224efaa7c44d6a9fff610c',
+    header = {'x-api-key': 'API_KEY',
               'content-type': 'application/json'
               }
 
